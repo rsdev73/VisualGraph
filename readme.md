@@ -17,7 +17,7 @@ The following graph and sequence based algorithms are contained:
 One characteristic of VisualGraph is, that it can easily be extended with additional algorithm representations. 
 
 To start the application, enter: java -jar ./VisualGraph.jar
-Application help can be found under folder Help/help.html.
+Application help can be found under folder [help](Help/help.html).
 
 Remark: The application was initially developed 1998 as one part of my master thesis using java sdk 1.2. The current code was adapted to the java LTS version 21.0.1.
 
