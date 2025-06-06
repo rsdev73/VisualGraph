@@ -1,0 +1,8 @@
+# Exclude the archive directory
+archive/
+# Exclude the build directory
+bin/
+# Exclude the Eclipse project files
+.classpath
+.project
+.settings/
